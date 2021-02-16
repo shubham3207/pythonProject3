@@ -1,5 +1,5 @@
 a=10
 b=20
-c=a+b
-print('the sum is',c)
+c=a*b
+print('the result is',c)
 
